@@ -26,10 +26,10 @@ Young & Aspiring Security Analyst and Incident Responder currently building skil
 - LetsDefend SOC Analyst Path
 
 ### Planned
-- TryHackMe: SOC Level 1 Path (Month 3-4)
+- TryHackMe: SOC Level 1 Path
 - Blue Team Level 1 (BTL1) Certification
 - eCIR (eLearnSecurity Certified Incident Responder)
-- Google Cybersecurity Professional Certificate (Starting)
+- Google Cybersecurity Professional Certificate Starting
 - CompTIA Security+ (Studying with Professor Messer)
 
   
@@ -71,11 +71,11 @@ Young & Aspiring Security Analyst and Incident Responder currently building skil
 - LetsDefend
 
 ## Contact & Links
-- **GitHub:** github.com/NubelAz
+- **GitHub:** https://github.com/EDSsecurity
 - **LinkedIn:** https://www.linkedin.com/in/eddiel-dejesus-csecurity/
 - **Location:** Florida, USA
 - **Career Goal:** Entry-level Security Analyst / SOC Analyst position
 
 ---
 
-**Note:** This portfolio is actively being developed as I progress through my cybersecurity training. Last updated: March 2026
+**Note:** This portfolio is actively being developed as I progress through my cybersecurity training. Last updated: April 2026
